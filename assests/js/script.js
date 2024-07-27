@@ -1,15 +1,3 @@
-function hide(name){
-    var element = document.getElementById(name)
-
-    element.style.opacity = 0
-}
-
-function remove(name){
-    var element = document.getElementById(name)
-
-    element.style.display = "none"
-}
-
-function reset(){
-    location.reload(true)
+function active_button_navbar(name){
+    name.style.backgroundColor = "red"
 }
