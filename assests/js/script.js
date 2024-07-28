@@ -1,3 +1,11 @@
-function active_button_navbar(name){
-    name.style.backgroundColor = "red"
+function drop_js(name){
+    var element=document.getElementById(name)
+
+    element.style.display = "block"
+}
+
+function drop_out_js(name){
+    var element=document.getElementById(name)
+
+    element.style.display = "none"
 }
