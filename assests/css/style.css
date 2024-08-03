@@ -9,13 +9,13 @@
 /* Class */
 
 .body{
-    background-color: white;
+    background-color: blueviolet;
     padding: 50px 50px 50px 50px;
 
     display:flex;justify-content:center;align-items:center;
 }
 
-/* .row-me{
+.row-me{
     width: 100%;
     text-align: center;
     justify-content: center;
@@ -43,13 +43,13 @@
 
 .but{
     text-align: center;
-} */
+}
 
-.div-main{
+/* .div-main{
     border-radius: 5px;
 
     width: 50%;
-    height: 50%;
+    height: 100%;
 
     padding-left: 20px;
     padding-top: 30px;
@@ -69,6 +69,6 @@
     padding: 12px 20px;
 
     width: 100%;
-}
+} */
 
 /* ____________________________________- */
