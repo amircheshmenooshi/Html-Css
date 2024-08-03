@@ -9,10 +9,38 @@
 /* Class */
 
 .body{
-    background-color: blueviolet;
-    /* padding: 20px 20px 20px 20px; */
+    background-color: rgb(47, 46, 48);
+    padding: 20px 20px 20px 20px;
 }
 
+.row-me{
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+}
 
+.box{
+    max-width: 24%;
+    height: 100%;
+    
+    float: left;
+
+    text-align: center;
+    padding: 3px 3px 3px 3px;
+
+    border: 2px solid black;
+    border-radius: 5px;
+
+    margin-left: 5px;
+}
+
+.box-text{
+    text-align: left;
+    color: white;
+}
+
+.but{
+    text-align: center;
+}
 
 /* ____________________________________- */
