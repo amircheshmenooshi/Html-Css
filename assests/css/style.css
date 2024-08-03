@@ -9,11 +9,13 @@
 /* Class */
 
 .body{
-    background-color: rgb(47, 46, 48);
-    padding: 20px 20px 20px 20px;
+    background-color: white;
+    padding: 50px 50px 50px 50px;
+
+    display:flex;justify-content:center;align-items:center;
 }
 
-.row-me{
+/* .row-me{
     width: 100%;
     text-align: center;
     justify-content: center;
@@ -41,6 +43,32 @@
 
 .but{
     text-align: center;
+} */
+
+.div-main{
+    border-radius: 5px;
+
+    width: 50%;
+    height: 50%;
+
+    padding-left: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+
+
+    background-color: #F2F2F2;;
+}
+
+.inp{
+    border: 1px solid #ccc;
+    border-radius: 3px;
+
+    margin-top: 5px;
+
+    padding: 12px 20px;
+
+    width: 100%;
 }
 
 /* ____________________________________- */
