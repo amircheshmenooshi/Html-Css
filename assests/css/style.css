@@ -13,50 +13,6 @@
     /* padding: 20px 20px 20px 20px; */
 }
 
-.drop-main{
-    background-color: black;
-    color: white;
 
-    border: 1px solid black;
-    border-radius: 5px;
-
-    max-width: 150px;
-    text-align: center;
-
-    margin-left: 10px;
-    margin-top: 10px;
-}
-
-.drop{
-    display: none;
-
-    background-color: black;
-    color: white;
-
-    border: 1px solid black;
-    border-radius: 5px;
-
-    max-width: 148px;
-    text-align: center;
-
-    margin-left: 12px;
-    margin-top: 20px;
-
-    padding: 3px 3px 3px 3px;
-}
-
-.ul{
-    list-style-type: none;
-    
-    margin: 0;
-    padding: 0;
-
-}
-
-.li{
-    max-width: 148px;
-    margin-top: 5px;
-
-}
 
 /* ____________________________________- */
